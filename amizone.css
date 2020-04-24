@@ -1,0 +1,73 @@
+body{
+
+	background: linear-gradient(to bottom,rgba(66, 82, 255),rgba(255, 191, 41));
+
+}
+.one{
+	
+
+	display: grid;
+	grid-template-columns: auto auto;
+
+	grid-template-rows: auto auto;
+	grid-column-gap: 20px;
+	margin: 175px;
+	
+	background-color: rgba(173, 204, 182);
+	
+	padding: 70px;
+	border-radius: 20px;
+	width: 60%;
+	
+}
+.two
+{	
+	
+
+	
+	
+	
+}
+.three
+{
+	
+	text-align: center;
+	
+    
+	padding: 10%;
+  }
+#abcd:hover{
+	color: green;
+
+}
+.icon{
+	font-family: fontawesome;
+	border-radius: 30px;
+	width: 250px;
+	height: 35px;
+
+}
+#abcde{
+	width: 250px;
+	height: 35px;
+	background-color: rgba(33, 209, 6);
+}
+#abcde:hover{
+	background-color: rgb(66, 82, 255);
+}
+.head{
+	
+    grid-column: 1 /3;
+	
+}
+.img{
+	margin-left:  10%;
+	
+	
+	border-radius: 30px;
+	}
+
+.img1
+{
+	margin-left: 5%;
+}
